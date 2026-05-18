@@ -1,0 +1,17 @@
+{
+  "name": "substation-load-forecast-service",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "substation",
+    "load-forecast",
+    "grid-capacity",
+    "energy",
+    "transformer"
+  ],
+  "author": "Kuncham Venkata Satya Manikanta",
+  "license": "MIT"
+}
